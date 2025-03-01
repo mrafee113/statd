@@ -1,0 +1,8 @@
+.idea
+.git
+.venv
+__pycache__/
+bin/
+*.test
+*.py[cod]
+.ruff_cache/
